@@ -1,1 +1,1 @@
-# CodSoft-Rock-Paper-Scissor
+@codsoft/Rock-Paper-Scissor
